@@ -6,7 +6,7 @@ const Card4 = () => {
     <>
       <div class="card-4">
         <div class="face face1">
-          <div class="content-4">
+          <div class="content">
             <h2>services</h2>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do

@@ -22,7 +22,7 @@
   left: 80%;
 }
 
-.content-3 {
+.card-3 .content {
   position: relative;
   width: 40%;
   left: 20%;
@@ -32,10 +32,11 @@
   opacity: 0;
 }
 
-.card-3:hover .content-3 {
+.card-3:hover .content {
   left: 5%;
   opacity: 1;
 }
+
 .card-3 h2 {
   margin: 0;
   padding: 0;

@@ -9,9 +9,7 @@
 .card-4:hover {
   box-shadow: 0 30px 50px rgba(0, 0, 0, 0.2);
 }
-.content-4 {
-  padding: 10px;
-}
+
 .card-4 .face {
   position: absolute;
   top: 0;
@@ -43,6 +41,9 @@
   text-transform: capitalize;
   font-weight: bold;
   transition: 0.3s;
+}
+.card-4 .content {
+  padding: 10px;
 }
 
 .card-4 .face2 {

@@ -6,7 +6,7 @@ const Card3 = () => {
   return (
     <>
       <div className="card-3">
-        <div className="content-3">
+        <div className="content">
           <h2>Card 3</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
